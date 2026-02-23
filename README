@@ -1,4 +1,4 @@
-I'm a freelance, low-level developer. I love free (*as in freedom*), open-source software and community driven projects. Some of my favorite software is made by *suckless software* and *GNU*. I value privacy over everything and I despise subscription services to the point where I self-host pretty much everything, I love simplicity and performance over style. The modern digital world is a mess, having to navigate surveillance, censorship, capitalism, and the ever increasing use of artificial intelligence. Put the power back in the hands of the people.
+I'm a freelance, low-level developer. I love free (*as in freedom*), open-source software and community driven projects. Some of my favorite software is made by *suckless software* and *GNU*. I value privacy over everything and I despise subscription services to the point where I self-host nearly everything. I love simplicity and performance over style. The modern digital world is a mess, having to navigate surveillance, censorship and the ever increasing use of artificial intelligence. Put the power back in the hands of the people.
  
 Enough drivel, I have quite a few years of low-level BSD & GNU/Linux experience. My strongest programming language would be C but I've done work in the likes of x86 ASM, Rust, Python (who hasn't) and the modern web development trio (css, html and javascript).
 
@@ -6,7 +6,3 @@ Sources:
 https://suckless.org/
 https://www.gnu.org/
 https://crux.nu/
-
-Other projects I use:
-https://github.com/Cubified/tuibox/
-https://github.com/Cubified/vt100utils
