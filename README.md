@@ -1,0 +1,10 @@
+I'm a freelance, low-level developer. I love free (<i>as in freedom</i>), open-source software and community driven projects. Some of my favorite software is made by <i>suckless software</i> and the <i>GNU & FSF</i> Orgs. I value privacy over everything and I despise subscription services to the point where I self-host nearly everything. I love simplicity and performance over style. The modern digital world is a mess, having to navigate surveillance, censorship and the ever increasing use of artificial intelligence. Put the power back in the hands of the people.
+ 
+Enough drivel, I have many years of low-level BSD & GNU/Linux experience. My strongest programming language would be C but I've done work in the likes of x86 ASM, Rust, Bash & Python (<i>who hasn't</i>) and the vanilla web development trio (<i>CSS, HTML and JavaScript</i>). Do not let my personal website fool you, I am quite capable in the modern web development field. I have experience in most branches of computer science, I have some heavy knowledge of networking and bare-metal hardware coding principles.
+
+Some more information about me: In my free time I like to listen to music, one of my favorite bands is <i>Armor For Sleep</i>. Programming is also my hobby and something that I enjoy more than most other things. In my free time (<i>if I'm not programming</i>) you may find me making pizza (<i>my favorite food</i>).
+
+Sources:
+<a href="https://suckless.org/">Suckless Org homepage</a>
+<a href="https://www.gnu.org/">GNU Org homepage</a>
+<a href="https://crux.nu/">CRUX Linux homepage</a>
