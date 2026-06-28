@@ -4,7 +4,7 @@ Enough drivel, I have many years of low-level BSD & GNU/Linux experience. My str
 
 Some more information about me: In my free time I like to listen to music, one of my favorite bands is <i>Armor For Sleep</i>. Programming is also my hobby and something that I enjoy more than most other things. In my free time (<i>if I'm not programming</i>) you may find me making pizza (<i>my favorite food</i>).
 
-Sources:
-<a href="https://suckless.org/">Suckless Org homepage</a>
-<a href="https://www.gnu.org/">GNU Org homepage</a>
+Sources:<br>
+<a href="https://suckless.org/">Suckless Org homepage</a><br>
+<a href="https://www.gnu.org/">GNU Org homepage</a><br>
 <a href="https://crux.nu/">CRUX Linux homepage</a>
